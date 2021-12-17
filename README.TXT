@@ -1,2 +1,3 @@
 The game is Checkers, grey starts out first. 
-Our twist is that the pieces from the start can move anyway, including backwards. 
+Our twist is that the pieces can moves in any direction, including backwards. 
+That's it. 
